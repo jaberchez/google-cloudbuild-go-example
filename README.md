@@ -1,4 +1,4 @@
-# cloudbuild-go-example
+# google-cloudbuild-go-example
 This project contains an example to run CloudBuild from Go
 
 It consists in two components:
